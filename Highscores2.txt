@@ -1,0 +1,22 @@
+Jeopardy! Highscore File - By Eric Shim
+
+Shimmy04
+28001
+ShimmyBot v5
+1600
+ShimmyBot v4
+1400
+ShimmyBot v3
+500
+a
+0
+b
+0
+a
+0
+ShimmyBot v2
+0
+null
+null
+null
+null
